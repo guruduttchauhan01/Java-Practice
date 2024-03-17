@@ -1,6 +1,6 @@
-#HackerRank Solutions
-##Java
-###Exercise 1:
+# HackerRank Solutions
+## Java
+### Exercise 1:
 **Welcome To Java**
 Welcome to the world of Java! In this challenge, we practice printing to stdout.
 
