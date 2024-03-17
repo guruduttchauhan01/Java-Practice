@@ -9,11 +9,11 @@ The code stubs in your editor declare a Solution class and a main method. Comple
 System.out.println("Hello, World.");
 System.out.println("Hello, Java.");
 ```
-Input Format
+**Input Format**
 
 There is no input for this challenge.
 
-Output Format
+**Output Format**
 
 You must print two lines of output:
 
