@@ -3,7 +3,7 @@ import java.io.*;
 
 
 
-class Solution8 {
+class S8_JavaDatatypes {
     public static void main(String []argh)
     {
 

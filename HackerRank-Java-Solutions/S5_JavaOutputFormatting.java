@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution5 {
+public class S5_JavaOutputFormatting {
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

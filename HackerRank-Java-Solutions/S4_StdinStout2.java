@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution4 {
+public class S4_StinStout2 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

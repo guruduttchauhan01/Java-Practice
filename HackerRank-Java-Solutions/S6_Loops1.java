@@ -12,7 +12,7 @@ import static java.util.stream.Collectors.toList;
 
 
 
-public class Solution6 {
+public class S6_Loops1 {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 

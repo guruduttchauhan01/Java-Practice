@@ -9,3 +9,5 @@
 ### Exercise 5: **[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)**
 ### Exercise 6: **[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)**
 ### Exercise 7: **[Java Loops II](https://www.hackerrank.com/challenges/java-loops)**
+### Exercise 8: **[Java Datatype](https://www.hackerrank.com/challenges/java-datatypes)**
+### Exercise 9: **[Java End Of File](https://www.hackerrank.com/challenges/java-end-of-file);
