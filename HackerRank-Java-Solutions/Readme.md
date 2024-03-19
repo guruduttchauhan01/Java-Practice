@@ -11,3 +11,4 @@
 ### Exercise 7: **[Java Loops II](https://www.hackerrank.com/challenges/java-loops)**
 ### Exercise 8: **[Java Datatype](https://www.hackerrank.com/challenges/java-datatypes)**
 ### Exercise 9: **[Java End Of File](https://www.hackerrank.com/challenges/java-end-of-file);
+### Exercise 10: **[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block)**
