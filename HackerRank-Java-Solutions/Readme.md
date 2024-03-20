@@ -12,3 +12,6 @@
 ### Exercise 8: **[Java Datatype](https://www.hackerrank.com/challenges/java-datatypes)**
 ### Exercise 9: **[Java End Of File](https://www.hackerrank.com/challenges/java-end-of-file);
 ### Exercise 10: **[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block)**
+### Exercise 11: **[Java Int To String](https://www.hackerrank.com/challenges/java-int-to-string)**
+### Exercise 12: **[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time)**
+### Exercise 13: **[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)**
