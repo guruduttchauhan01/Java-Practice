@@ -18,3 +18,4 @@
 ### Exercise 14: **[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)**
 ### Exercise 15: **[Java Substring](https://www.hackerrank.com/challenges/java-substring)**
 ### Exercise 16: **[Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)**
+### Exercise 17: **[Java String Compare](https://www.hackerrank.com/challenges/java-string-compare)**
