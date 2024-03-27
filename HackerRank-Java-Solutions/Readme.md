@@ -20,3 +20,4 @@
 ### Exercise 16: **[Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)**
 ### Exercise 17: **[Java String Compare](https://www.hackerrank.com/challenges/java-string-compare)**
 ### Exercise 18: **[Java String reverse](https://www.hackerrank.com/challenges/java-string-reverse)**
+### Exercise 19: **[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)**
