@@ -22,3 +22,4 @@
 ### Exercise 18: **[Java String reverse](https://www.hackerrank.com/challenges/java-string-reverse)**
 ### Exercise 19: **[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)**
 ### Exercise 20: **[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)**
+### Exercise 21: **[Java Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker)**
