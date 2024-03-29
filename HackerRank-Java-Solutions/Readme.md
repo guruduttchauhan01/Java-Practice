@@ -24,3 +24,4 @@
 ### Exercise 20: **[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)**
 ### Exercise 21: **[Java Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker)**
 ### Exercise 22: **[Java Regex](https://www.hackerrank.com/challenges/java-regex)**
+### Exercise 23: **[Java Regex 2 - Duplicate words](https://www.hackerrank.com/challenges/duplicate-word)**
